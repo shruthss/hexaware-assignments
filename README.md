@@ -1,2 +1,0 @@
-# hexaware-assignments
-hexaware assignments
